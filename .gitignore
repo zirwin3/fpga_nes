@@ -43,7 +43,6 @@ isim/ALUtester_isim_beh.exe.sim/tmp_save/_1
 *.gise
 *.xwbt
 *.map
-*.txt
 *.xml
 *.tcl
 *.debug
